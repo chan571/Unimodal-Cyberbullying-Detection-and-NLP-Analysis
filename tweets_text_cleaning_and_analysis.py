@@ -8,7 +8,7 @@ Original file is located at
 
 Unimodal Cyberbullying Detection and NLP Analysis
 
-Shan Ming Gao, CP Chan, Melody Chang, Kelly Liu
+Shan Ming Gao, Ching-Ping Chan, Melody Chang, Kelly Liu
 """
 
 import numpy as np
